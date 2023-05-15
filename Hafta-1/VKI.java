@@ -12,7 +12,7 @@ public class VKI {
         kilo = inp.nextDouble();
 
         double vkı = kilo / (boy * boy);
-        System.out.print("Vücut Kütle İndeksiniz: " + vkı);
+        System.out.print("Vücut Kitle İndeksiniz: " + vkı);
 
 
 
