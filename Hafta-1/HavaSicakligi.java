@@ -17,7 +17,7 @@ public class HavaSicakligi {
                 System.out.println("Simemaya gidebilirsin.");
 
             }
-            if (s >= 10) {
+            if (s >= 15) {
                 System.out.print("Pikniğe gidebilirsin.");
 
 
