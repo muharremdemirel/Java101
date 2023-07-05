@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Palindrom {
 
     static boolean isPalindrom(int numara){
         int tmp = numara, yeniNumara=0, sonSayi;
